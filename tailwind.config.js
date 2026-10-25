@@ -1,0 +1,1 @@
+export default { content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'], theme: { extend: { colors: { sinergi: { teal: '#087e8b', navy: '#102a43' } } } }, plugins: [] }
